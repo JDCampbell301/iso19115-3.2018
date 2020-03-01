@@ -1,6 +1,6 @@
 # ISO 19115-3:2018 schema plugin
 
-This is the ISO19115-3:2018 schema plugin available in GeoNetwork 3.8.x by default.
+This is Jeff's fork of other branch of ISO19115-3:2018 schema plugin available in GeoNetwork 3.8.x by default.
 
 The main changes with the previous ISO19115-3 plugin are:
 * Update to latest XSD (https://github.com/ISO-TC211/XML/wiki/Schema-Updates)
